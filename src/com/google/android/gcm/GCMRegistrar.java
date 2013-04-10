@@ -506,3 +506,4 @@ public final class GCMRegistrar {
         throw new UnsupportedOperationException();
     }
 }
+//// TEST ///////
