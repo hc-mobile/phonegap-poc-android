@@ -1,9 +1,7 @@
 package com.plugin.GCM;
 
-
 //import java.io.*;
 //import java.util.*;
-
 
 import org.json.JSONArray;
 import org.json.JSONException;
